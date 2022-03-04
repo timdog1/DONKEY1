@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xCB774a3178cb36623DfF157d885e84F63D511972",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xCB774a3178cb36623DfF157d885e84F63D511972",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "CryptoDonkeys JSON",
+  "SYMBOL": "DONKEY",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cryptodonkeys-json",
+  "SHOW_BACKGROUND": true
+}
